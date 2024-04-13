@@ -1,0 +1,113 @@
+@media screen and (max-width: 1980px)
+{
+    body
+    {
+        background-color: rgb(245, 204, 165)
+    }
+    
+    h1
+    {
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: green;
+        text-shadow: 40cap;
+    }
+    
+    .Gato_Siames
+    {
+        font-size: 30px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+        
+        h2
+        {
+            color: antiquewhite;
+            text-decoration: underline;
+            left: 45%;
+            position: relative;
+            font-size: 4vh;
+        }
+
+        .S_Cat
+        {
+            display: flex;
+            width: 290px;
+            position: relative;
+            left: 81vh;
+        }
+
+        p
+        {
+            font-size: 20px;
+            color: #705ea0;
+        }
+    }
+
+    .Gato_Persa
+    {
+        h2
+        {
+            position: relative;
+            display: flex;
+            width: auto;
+            left: 85vh;
+            top: 4vh;
+            color: antiquewhite;
+            text-decoration: underline;
+            font-size: 5vh;
+        }
+
+        .P_Cat
+        {
+            position: relative;
+            width: 290px;
+            left: 79vh;
+            top: 5vh;
+        }
+
+        .Persa_Char
+        {
+            position: relative;
+            top: 8vh;
+            font-size: 3vh;
+            color: #705ea0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+    }
+
+    .Gato_Bombay
+    {
+        h2
+        {
+            position: relative;
+            display: flex;
+            top: 10vh;
+            left: 88vh;
+            color: antiquewhite;
+            text-decoration: underline;
+        }
+
+        .B_Cat
+        {
+            position: relative;
+            display: flex;
+            width: 310px;
+            top: 12vh;
+            left: 79vh;
+        }
+
+        .Bombay_Char
+        {
+            position: relative;
+            display: flex;
+            top: 11vh;
+            font-size: 3vh;
+            color: #705ea0;
+        }
+    }
+
+}
+
+
+
+
