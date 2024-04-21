@@ -1,0 +1,36 @@
+body
+    {
+        background-color: rgb(245, 204, 165)
+    }
+    
+    h1
+    {
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: green;
+        text-shadow: 40cap;
+    }
+
+.List_Info
+{
+    display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.Foot_Page
+{
+    display: flex;
+    position: relative;
+    bottom: -100vh;
+    color: rgb(0, 49, 141);
+    justify-content: center;
+}
+
+.Form_Style
+{
+  position: relative;
+  left: 73vh;
+  top: 10vh;
+  
+}
