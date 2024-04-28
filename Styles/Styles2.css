@@ -1,6 +1,7 @@
 body
     {
-        background-color: rgb(245, 204, 165)
+        background-color: rgb(245, 204, 165);
+        
     }
     
     h1
@@ -29,8 +30,12 @@ body
 
 .Form_Style
 {
+  margin: 0;
+  border: 20px lightcoral double;
+  width: 30%;
   position: relative;
-  left: 73vh;
+  left: 66vh;
   top: 10vh;
+  
   
 }

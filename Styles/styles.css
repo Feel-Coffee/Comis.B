@@ -2,7 +2,8 @@
 {
     body
     {
-        background-color: rgb(245, 204, 165)
+        background-color: rgb(245, 204, 165);
+        font-weight: 900;
     }
     
     h1
