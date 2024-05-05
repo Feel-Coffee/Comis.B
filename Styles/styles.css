@@ -124,6 +124,22 @@
     justify-content: center;
 }
     
+.Ins
+{
+    position: relative;
+    bottom: -136px;
+    left: 136vb;
+    color: rgb(0, 49, 141);
+}
+
+.I_Logo
+{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    bottom: -90px;
+    left: 132vb;
+}
 
 }
 
