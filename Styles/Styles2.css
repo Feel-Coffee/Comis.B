@@ -1,6 +1,10 @@
 body
     {
-        background-color: rgb(245, 204, 165);
+        background-image: url(/Images/wallpaperflare.com_wallpaper.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 100%;
+        background-attachment: fixed;
         
     }
     
@@ -34,8 +38,8 @@ body
   border: 20px lightcoral double;
   width: 30%;
   position: relative;
+  text-align: center;
+  justify-content: center;
   left: 66vh;
   top: 10vh;
-  
-  
 }
